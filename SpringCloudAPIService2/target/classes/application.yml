@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: SpringCloudAPIService2
+   
+server:
+  port: 7558
